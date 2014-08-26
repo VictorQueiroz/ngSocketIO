@@ -8,6 +8,14 @@
   "moduleType": [
     "node"
   ],
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/VictorQueiroz/ngSocketIO.git"
+  },
+  "bugs": {
+    "url": "https://github.com/VictorQueiroz/ngSocketIO/issues"
+  },
   "private": false,
   "license": "MIT",
   "ignore": [
