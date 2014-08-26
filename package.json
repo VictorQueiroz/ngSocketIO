@@ -1,0 +1,15 @@
+{
+  "name": "ngSocketIO",
+  "version": "1.0.0",
+  "description": "Easy integration through Socket.IO and AngularJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+  	"name": "Victor Queiroz",
+  	"email": "victorcqueirozg@gmail.com",
+  	"twitter": "victor_queirozg"
+  },
+  "license": "ISC"
+}
