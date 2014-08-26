@@ -1,12 +1,14 @@
 {
   "name": "ngSocketIO",
   "version": "1.0.0",
+  "homepage": "https://github.com/VictorQueiroz/ngSocketIO",
   "authors": [
     "Victor Queiroz <victorcqueirozg@gmail.com>"
   ],
   "moduleType": [
     "node"
   ],
+  "private": false,
   "license": "MIT",
   "ignore": [
     "**/.*",
