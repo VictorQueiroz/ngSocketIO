@@ -5,7 +5,7 @@ Easy integration of Socket.IO and AngularJS.
 
 ### Usage
 ```
-bower install angular-socketio
+bower install angular-socketio --save
 ```
 
 ```
