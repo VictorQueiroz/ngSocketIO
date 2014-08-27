@@ -1,15 +1,25 @@
 {
   "name": "ngSocketIO",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Easy integration through Socket.IO and AngularJS",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "karma start --no-single-run --log-level debug"
   },
   "author": {
-  	"name": "Victor Queiroz",
-  	"email": "victorcqueirozg@gmail.com",
-  	"twitter": "victor_queirozg"
+    "name": "Victor Queiroz",
+    "email": "victorcqueirozg@gmail.com",
+    "twitter": "victor_queirozg"
   },
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "del": "^0.1.2",
+    "gulp": "^3.8.7",
+    "gulp-concat": "^2.3.4",
+    "gulp-sourcemaps": "^1.1.1",
+    "gulp-uglify": "^0.3.2",
+    "karma": "^0.12.22",
+    "karma-jasmine": "^0.1.5",
+    "karma-phantomjs-launcher": "^0.1.4"
+  }
 }

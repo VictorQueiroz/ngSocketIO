@@ -1,6 +1,6 @@
 {
   "name": "ngSocketIO",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/VictorQueiroz/ngSocketIO",
   "authors": [
     "Victor Queiroz <victorcqueirozg@gmail.com>"
@@ -24,5 +24,9 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "devDependencies": {
+    "angular": "~1.2.23",
+    "angular-mocks": "~1.2.23"
+  }
 }
